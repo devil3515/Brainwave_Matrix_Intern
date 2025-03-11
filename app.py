@@ -5,6 +5,7 @@ from tensorflow.keras.preprocessing.text import one_hot
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import numpy as np
 
+st.set_page_config(page_title="Fake News Detector", page_icon="📰")
 # Load the model
 with open('model/model.sav', 'rb') as file:
     model = pickle.load(file)
