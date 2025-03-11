@@ -5,6 +5,8 @@ This project is a **Fake News Detection** system built using a GRU-based deep le
 
 ## Check for the model visualizations in the live links 
 [View the Project on Render](https://brainwave-matrix-intern-yzt2.onrender.com)
+Note Live Link will take time to load....
+Also the Visualizations Uploaded in Src folder
 
 Make sure to check both Prediction and Model Visualization from the Sidebar
 <img src="src\prediction.png" alt="App Preview" width="600">
