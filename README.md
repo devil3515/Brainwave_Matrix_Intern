@@ -3,6 +3,12 @@
 ## Overview
 This project is a **Fake News Detection** system built using a GRU-based deep learning model. The model is trained on a dataset containing real and fake news articles to classify input text as **Fake** or **Real**.
 
+## Check for the model visualizations in the live links 
+[View the Project on Render](https://brainwave-matrix-intern-yzt2.onrender.com)
+
+Make sure to check both Prediction and Model Visualization from the Sidebar
+[App Preview](src\prediction.png)
+
 ## Dataset
 The dataset used in this project is downloaded from Kaggle:
 - `Fake.csv` - Contains fake news articles.
