@@ -7,7 +7,7 @@ This project is a **Fake News Detection** system built using a GRU-based deep le
 [View the Project on Render](https://brainwave-matrix-intern-yzt2.onrender.com)
 
 Make sure to check both Prediction and Model Visualization from the Sidebar
-[App Preview](src\prediction.png)
+<img src="src\prediction.png" alt="App Preview" width="600">
 
 ## Dataset
 The dataset used in this project is downloaded from Kaggle:
