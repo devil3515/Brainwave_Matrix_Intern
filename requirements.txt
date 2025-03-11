@@ -4,6 +4,6 @@ numpy==1.20.3
 scikit-learn
 matplotlib
 seaborn
-tensorflow
+tensorflow==2.10.0
 pickle
 nltk
