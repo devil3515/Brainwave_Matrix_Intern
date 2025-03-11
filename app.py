@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 import numpy as np
 
 # Load the model
-with open('model\model.sav', 'rb') as file:
+with open('model/model.sav', 'rb') as file:
     model = pickle.load(file)
 
 ##Defining the different apps for the model visualizations and model predictions    
